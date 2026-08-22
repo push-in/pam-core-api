@@ -2,6 +2,7 @@
     "name": "pushinbr/pam-core-api",
     "description": "Compatibility package for pushinbr/pam-contracts.",
     "type": "metapackage",
+    "abandoned": "pushinbr/pam-contracts",
     "license": "Apache-2.0",
     "require": {
         "pushinbr/pam-contracts": "^1.1"
