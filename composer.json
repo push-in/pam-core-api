@@ -1,0 +1,9 @@
+{
+    "name": "pushinbr/pam-core-api",
+    "description": "Compatibility package for pushinbr/pam-contracts.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "require": {
+        "pushinbr/pam-contracts": "^1.1"
+    }
+}
